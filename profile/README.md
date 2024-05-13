@@ -1,6 +1,6 @@
 # 🌲 FRDC: Forest Recovery Digital Companion
 
-FRDC is a tool for ecologists to efficiently assess forest health, classify tree species, and monitor reforestation through the use of UAVs and ML.
+The Forest Recovery Digital Companion (FRDC) Project is a tool for ecologists to efficiently assess forest health, classify tree species, and monitor reforestation through the use of Unmanned Aerial Vehicles (UAVs) and Machine Learning (ML).
 
 ---
 
